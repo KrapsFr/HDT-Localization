@@ -226,64 +226,64 @@
     <value>A partir d'ids</value>
   </data>
   <data name="MainWindow_Menu_Import_Other_Clipboard" xml:space="preserve">
-    <value>From clipboard</value>
+    <value>A partir du presse-papiers</value>
   </data>
   <data name="MainWindow_Menu_Import_Other_LastGame" xml:space="preserve">
-    <value>From last game</value>
+    <value>A partir de la dernière partie</value>
   </data>
   <data name="MainWindow_Menu_Export" xml:space="preserve">
-    <value>E_xport</value>
+    <value>E_xporter</value>
   </data>
   <data name="MainWindow_Menu_Export_Hearthstone" xml:space="preserve">
-    <value>To _Hearthstone</value>
+    <value>Dans _Hearthstone</value>
   </data>
   <data name="MainWindow_Menu_Export_Hearthstone_FromWeb" xml:space="preserve">
-    <value>To Hearthstone from _Web</value>
+    <value>Dans Hearthstone à partir du _Web</value>
   </data>
   <data name="MainWindow_Menu_Export_Xml" xml:space="preserve">
-    <value>Save as _Xml</value>
+    <value>Enregistrer sous _Xml</value>
   </data>
   <data name="MainWindow_Menu_Export_Ids" xml:space="preserve">
-    <value>Copy IDs to _clipboard</value>
+    <value>Copier les IDs dans le _presse-papiers</value>
   </data>
   <data name="MainWindow_Menu_Export_Clpiboard" xml:space="preserve">
-    <value>Copy _names to clipboard</value>
+    <value>Copier les _noms dans le _presse-papiers</value>
   </data>
   <data name="MainWindow_Menu_Export_Screenshot" xml:space="preserve">
-    <value>_Screenshot</value>
+    <value>_Capture d'écran</value>
   </data>
   <data name="MainWindow_Menu_Export_Screenshot_Info" xml:space="preserve">
-    <value>Screenshot (with info)</value>
+    <value>Capture d'écran (avec infos)</value>
   </data>
   <data name="MainWindow_Menu_Stats" xml:space="preserve">
     <value>_Stats</value>
   </data>
   <data name="MainWindow_Menu_Stats_Arena" xml:space="preserve">
-    <value>_Arena</value>
+    <value>_Arène</value>
   </data>
   <data name="MainWindow_Menu_Stats_Constructed" xml:space="preserve">
-    <value>_Constructed</value>
+    <value>_Construit</value>
   </data>
   <data name="MainWindow_Menu_Replays" xml:space="preserve">
-    <value>_Replays</value>
+    <value>_Revoir les parties</value>
   </data>
   <data name="MainWindow_Menu_Replays_Latest" xml:space="preserve">
-    <value>_Latest replays</value>
+    <value>_Dernières parties</value>
   </data>
   <data name="MainWindow_Menu_Replays_Stats" xml:space="preserve">
-    <value>_Select from stats</value>
+    <value>_Choisir à partir des stats</value>
   </data>
   <data name="MainWindow_Menu_Replays_File" xml:space="preserve">
-    <value>Load from _file</value>
+    <value>Charger à partir d'un _fichier</value>
   </data>
   <data name="MainWindow_Menu_Replays_ClaimAccount" xml:space="preserve">
     <value>Claim account</value>
   </data>
   <data name="MainWindow_Menu_Replays_MyAccount" xml:space="preserve">
-    <value>My account</value>
+    <value>Mon compte</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_Login" xml:space="preserve">
-    <value>Login</value>
+    <value>Identifiant</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_Dashboard" xml:space="preserve">
     <value>Dashboard (web)</value>
@@ -316,184 +316,184 @@
     <value>Delete selected decks</value>
   </data>
   <data name="MainWindow_Menu_HearthStats_Logout" xml:space="preserve">
-    <value>Logout</value>
+    <value>Se déconnecter</value>
   </data>
   <data name="MainWindow_Menu_Plugins" xml:space="preserve">
     <value>_Plugins</value>
   </data>
   <data name="MainWindow_Menu_Plugins_Empty" xml:space="preserve">
-    <value>Empty...</value>
+    <value>Vide...</value>
   </data>
   <data name="MainWindow_TitleBar_Options" xml:space="preserve">
     <value>Options</value>
   </data>
   <data name="MainWindow_TitleBar_Help" xml:space="preserve">
-    <value>Help</value>
+    <value>Aide</value>
   </data>
   <data name="MainWindow_TitleBar_Donate" xml:space="preserve">
-    <value>Donate</value>
+    <value>Donation</value>
   </data>
   <data name="MainWindow_Flyout_Options_Header" xml:space="preserve">
     <value>Options</value>
   </data>
   <data name="MainWindow_Flyout_Help_Header" xml:space="preserve">
-    <value>Help</value>
+    <value>Aide</value>
   </data>
   <data name="MainWindow_Flyout_OpponentDeck_Header" xml:space="preserve">
-    <value>Opponent Deck</value>
+    <value>Trier les decks</value>
   </data>
   <data name="MainWindow_Flyout_SortFilter_Header" xml:space="preserve">
-    <value>Sort / Filter Decks</value>
+    <value>Classer / Filtrer les decks</value>
   </data>
   <data name="MainWindow_Flyout_Notes_Header" xml:space="preserve">
     <value>Notes</value>
   </data>
   <data name="MainWindow_Flyout_SetTags_Header" xml:space="preserve">
-    <value>Set Tags</value>
+    <value>Configurer les tags</value>
   </data>
   <data name="MainWindow_Flyout_Errors_Header" xml:space="preserve">
-    <value>Errors</value>
+    <value>Erreurs</value>
   </data>
   <data name="MainWindow_Flyout_UpdateNotes_Header" xml:space="preserve">
-    <value>Update Notes</value>
+    <value>Notes de mise à jour</value>
   </data>
   <data name="MainWindow_Flyout_DeckImporting_Header" xml:space="preserve">
-    <value>Deck Importing</value>
+    <value>Importation de deck</value>
   </data>
   <data name="MainWindow_Flyout_Stats_Move" xml:space="preserve">
-    <value>Move to new window</value>
+    <value>Afficher dans une nouvelle fenêtre</value>
   </data>
   <data name="MainWindow_Flyout_Stats_Header" xml:space="preserve">
-    <value>Stats</value>
+    <value>Statistiques</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_NewUpdateAvailable" xml:space="preserve">
-    <value>A new update is available</value>
+    <value>Une nouvelle mise à jour est disponible</value>
   </data>
   <data name="MainWindow_StatusBarUpdate_ClickToUpdate" xml:space="preserve">
-    <value>Click here to update now</value>
+    <value>Cliquer ici pour lancer la mise à jour</value>
   </data>
   <data name="MainWindow_Button_StartHearthstone" xml:space="preserve">
-    <value>Start Launcher / Hearthstone</value>
+    <value>Lancer le launcher / Hearthstone</value>
   </data>
   <data name="MainWindow_Label_SelectedVersion" xml:space="preserve">
-    <value>Selected version:</value>
+    <value>Version sélectionnée :</value>
   </data>
   <data name="MainWindow_DeckBuilder_Label_Cards" xml:space="preserve">
-    <value>Cards:</value>
+    <value>Cartes:</value>
   </data>
   <data name="MainWindow_DeckBuilder_Button_Save" xml:space="preserve">
-    <value>Save</value>
+    <value>Sauvegarder</value>
   </data>
   <data name="MainWindow_DeckBuilder_Button_Save_Current" xml:space="preserve">
-    <value>(current)</value>
+    <value>(actuelle)</value>
   </data>
   <data name="MainWindow_DeckBuilder_Button_Save_New" xml:space="preserve">
-    <value>Save as new</value>
+    <value>Nouvelle sauvegarde</value>
   </data>
   <data name="MainWindow_DeckBuilder_Button_Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Annuler</value>
   </data>
   <data name="MainWindow_DeckBuilder_Button_Filter" xml:space="preserve">
-    <value>Filter</value>
+    <value>Filtrer</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Cost" xml:space="preserve">
-    <value>Cost</value>
+    <value>Prix</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Type" xml:space="preserve">
     <value>Type</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set" xml:space="preserve">
-    <value>Set</value>
+    <value>Extension</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Cost_All" xml:space="preserve">
-    <value>All</value>
+    <value>Tout</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Type_All" xml:space="preserve">
-    <value>All</value>
+    <value>Tout</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Type_Class" xml:space="preserve">
-    <value>Class only</value>
+    <value>Classe seulement</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Type_Neutral" xml:space="preserve">
-    <value>Neutral only</value>
+    <value>Neutres seulement</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_All" xml:space="preserve">
-    <value>All</value>
+    <value>Tout</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Basic" xml:space="preserve">
-    <value>Basic</value>
+    <value>Jeu de base</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Classic" xml:space="preserve">
-    <value>Classic</value>
+    <value>Classique</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Promo" xml:space="preserve">
-    <value>Promotion</value>
+    <value>Récompense</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Naxx" xml:space="preserve">
-    <value>Curse of Naxxramas</value>
+    <value>Malédiction de Naxxramas</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Gvg" xml:space="preserve">
-    <value>Goblins vs Gnomes</value>
+    <value>Gobelins et Gnomes</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Brm" xml:space="preserve">
-    <value>Blackrock Mountain</value>
+    <value>Mont Rochenoire</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Tgt" xml:space="preserve">
-    <value>The Grand Tournament</value>
+    <value>Le Grand Tournoi</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Loe" xml:space="preserve">
-    <value>League of Explorers</value>
+    <value>Ligue des explorateurs</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Wotog" xml:space="preserve">
-    <value>Whispers of the old Gods</value>
+    <value>les Murmures des Dieux très anciens</value>
   </data>
   <data name="MainWindow_DeckBuilder_Filter_Set_Kara" xml:space="preserve">
-    <value>One Night in Karazhan</value>
+    <value>Une Nuit à Karazhan</value>
   </data>
   <data name="MainWindow_DeckBuilder_TextBox_Name_Watermark" xml:space="preserve">
-    <value>Name...</value>
+    <value>Nom...</value>
   </data>
   <data name="MainWindow_DeckBuilder_Warning_ToolTip_NameAlreadyExists" xml:space="preserve">
-    <value>Name already exists</value>
+    <value>Ce nom existe déjà</value>
   </data>
   <data name="MainWindow_DeckBuilder_CheckBox_IncludeWild" xml:space="preserve">
-    <value>Include wild-only cards</value>
+    <value>Inclure les cartes du mode libre</value>
   </data>
   <data name="MainWindow_DeckBuilder_CheckBox_CardLimit" xml:space="preserve">
-    <value>Constructed card limits</value>
+    <value>Limite de cartes du mode construit</value>
   </data>
   <data name="MainWindow_DeckBuilder_Button_VerionHistory" xml:space="preserve">
-    <value>Show version history</value>
+    <value>Afficher l'historique des versions</value>
   </data>
   <data name="MainWindow_DeckBuilder_History_Header" xml:space="preserve">
-    <value>Deck History:</value>
+    <value>Historique du deck:</value>
   </data>
   <data name="MainWindow_NewsBar_Header" xml:space="preserve">
-    <value>News:</value>
+    <value>Nouveautés:</value>
   </data>
   <data name="Options_Search_Header" xml:space="preserve">
-    <value>Search</value>
+    <value>Rechercher</value>
   </data>
   <data name="Options_CheckBoxAdvanced" xml:space="preserve">
-    <value>Advanced options</value>
+    <value>Options avancées</value>
   </data>
   <data name="Options_Overlay_Header" xml:space="preserve">
-    <value>Overlay</value>
+    <value>Affichage</value>
   </data>
   <data name="Options_Overlay_General_Header" xml:space="preserve">
-    <value>General</value>
+    <value>Général</value>
   </data>
   <data name="Options_Overlay_Windows_Header" xml:space="preserve">
-    <value>Windows</value>
+    <value>Fenêtres</value>
   </data>
   <data name="Options_Overlay_Player_Header" xml:space="preserve">
-    <value>Player</value>
+    <value>Joueur</value>
   </data>
   <data name="Options_Overlay_Opponent_Header" xml:space="preserve">
-    <value>Opponent</value>
+    <value>Adversaire</value>
   </data>
   <data name="Options_Overlay_Interactivity_Header" xml:space="preserve">
-    <value>Interactivity</value>
+    <value>Intéractivité</value>
   </data>
   <data name="Options_Overlay_Streaming_Header" xml:space="preserve">
     <value>Streaming</value>
@@ -502,19 +502,19 @@
     <value>Tracker</value>
   </data>
   <data name="Options_Tracker_General_Header" xml:space="preserve">
-    <value>General</value>
+    <value>Général</value>
   </data>
   <data name="Options_Tracker_Stats_Header" xml:space="preserve">
-    <value>Stats</value>
+    <value>Statistiques</value>
   </data>
   <data name="Options_Tracker_Replays_Header" xml:space="preserve">
     <value>Replays</value>
   </data>
   <data name="Options_Tracker_Exporting_Header" xml:space="preserve">
-    <value>Exporting</value>
+    <value>Exportation</value>
   </data>
   <data name="Options_Tracker_Importing_Header" xml:space="preserve">
-    <value>Importing</value>
+    <value>Importation</value>
   </data>
   <data name="Options_Tracker_Notifications_Header" xml:space="preserve">
     <value>Notifications</value>
